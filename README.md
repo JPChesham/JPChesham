@@ -6,7 +6,7 @@ Full stack web & app developer
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [jordan@jpcoding.co.uk](mailto:jordan@jpcoding.co.uk)
-* 🚀  I'm currently working on [Sore Thumb rebuild](http://sorethumbretrogames.com)
+* 🚀  I'm currently rebuilding [Sore Thumb Retro Games](http://sorethumbretrogames.com) and [The Shampoo Club](https://theshampooclub.co.uk)
 * 🧠  I'm learning NestJS
 
 ### Skills
