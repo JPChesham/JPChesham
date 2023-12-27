@@ -7,7 +7,7 @@ Full stack web & app developer
 * 🌍 I'm based in United Kingdom
 * ✉️  You can contact me at [jordan@jpcoding.co.uk](mailto:jordan@jpcoding.co.uk)
 * 🚀 I'm currently rebuilding [Sore Thumb Retro Games](http://sorethumbretrogames.com), and [The Avenues](https://theavenueshull.co.uk)
-* 🚀 I also maintain [The Shampoo Club](https://theshampooclub.co.uk), [Bud Developers](https://buddevelopers.co.uk), and [Off Body](https://offbody.co.uk)
+* 🚀 I also maintain [Beckett Rentals](https://beckettrentals.co.uk), and [Off Body](https://offbody.co.uk)
 * 🧠 I'm learning NestJS & further testing libraries
 
 ### Skills
