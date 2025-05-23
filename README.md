@@ -6,8 +6,9 @@ Full stack web & app developer
 
 * 🌍 I'm based in United Kingdom
 * ✉️  You can contact me at [jordan@jpcoding.co.uk](mailto:jordan@jpcoding.co.uk)
-* 🚀 I'm currently building [Crewber](https://crewber.live) and [Make Time Fit]
-* 🚀 I also maintain [Beckett Rentals](https://beckettrentals.co.uk), [Sore Thumb Retro Games](https://sorethumbretrogames.com), [Trapstart](https://uk.trapstarlondon.com)
+* 🧑‍💻 Cofounder of [Crewber](https://crewber.live)
+* 🚀 I'm currently building [Make Time Fit]
+* 🔧 I also maintain [Sore Thumb Retro Games](https://sorethumbretrogames.com), [Trapstar](https://uk.trapstarlondon.com)
 * 🧠 I'm perfecting GoLang in my spare time
 
 ### Skills
