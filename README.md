@@ -6,9 +6,9 @@ Full stack web & app developer
 
 * 🌍 I'm based in United Kingdom
 * ✉️  You can contact me at [jordan@jpcoding.co.uk](mailto:jordan@jpcoding.co.uk) or on my [website](https://jpcoding.co.uk)
-* 🧑‍💻 Cofounder of [Crewber](https://crewber.live), Founder of [TraceNone](https://tracenone.app) and [Weeny](https://weeny.app)
-* 🚀 I'm currently expanding TraceNone, and a new product
-* 🔧 I also maintain [The Coin Printer](https://thecoinprinter.com)
+* 🧑‍💻 Founder of [TraceNone](https://tracenone.app), [Weeny](https://weeny.app), and [TeamPost](https://teampost.app)
+* 🚀 I'm currently expanding TeamPost
+* 🔧 I also maintain [The Coin Printer](https://thecoinprinter.com), [Timepiece Epicurean]([https://](https://www.timepieceepicurean.com/gb)) 
 * 🧠 I'm perfecting GoLang in my spare time
 
 ### Skills
